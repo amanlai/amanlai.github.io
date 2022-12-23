@@ -271,6 +271,11 @@ input, select, textarea {
 	font-size: 0.5em;
 }
 
+.email-address {
+	font-size: 0.7em;
+	line-height: 0.7em;
+}
+
 /* ---------------- */
 
 /* Container */
